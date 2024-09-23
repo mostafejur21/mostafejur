@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mostafejur/static/css/main.7f0d8e49.css",
-    "main.js": "/mostafejur/static/js/main.84818e6b.js",
+    "main.js": "/mostafejur/static/js/main.9afcdbf9.js",
     "index.html": "/mostafejur/index.html",
     "main.7f0d8e49.css.map": "/mostafejur/static/css/main.7f0d8e49.css.map",
-    "main.84818e6b.js.map": "/mostafejur/static/js/main.84818e6b.js.map"
+    "main.9afcdbf9.js.map": "/mostafejur/static/js/main.9afcdbf9.js.map"
   },
   "entrypoints": [
     "static/css/main.7f0d8e49.css",
-    "static/js/main.84818e6b.js"
+    "static/js/main.9afcdbf9.js"
   ]
 }
