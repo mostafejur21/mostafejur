@@ -41,7 +41,7 @@ export const App = () => {
         <Toggle />
         <Content />
         <Buttons />
-        <Footer />
+        {/* <Footer /> */}
         <Particles />
       </main>
     </AppProvider>
